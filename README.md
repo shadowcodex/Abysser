@@ -15,3 +15,7 @@ Flow:
 - save to csv
 - end
 
+Stack:
+
+- Python 3+
+- Open CV [opencv-python](https://pypi.org/project/opencv-python/)
