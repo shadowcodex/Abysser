@@ -1,3 +1,7 @@
 opencv-python
 pylint
 numpy
+#pytesseract
+#pillow
+imutils
+matplotlib

@@ -18,4 +18,5 @@ Flow:
 Stack:
 
 - Python 3+
-- Open CV [opencv-python](https://pypi.org/project/opencv-python/)
+- [opencv-python](https://pypi.org/project/opencv-python/)
+- [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki)
